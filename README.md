@@ -1,4 +1,4 @@
-# 学霸帝AI - Local Small Model AI Platform
+# 学霸帝AI 
 
 基于 Qwen2.5-VL + llama.cpp 的本地多模态AI助手，支持纯文本对话和图片视觉问答。
 
